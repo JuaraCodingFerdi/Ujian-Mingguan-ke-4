@@ -31,6 +31,7 @@ public class BmiCalculatorDefinition {
 
     @Then("saya mendapatkan hasil BMI {double}")
     public void sayaMendapatkanHasilBmi(double expectedBmi) {
+        System.out.println(hasilBmi);
         Assert.assertEquals(hasilBmi, expectedBmi, 0.01, "Hasil BMI tidak sesuai!");
     }
 
