@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk mengotomatisasi pengujian fitur perhitungan BMI pada 
    ```
 2. Masuk ke direktori proyek:
    ```sh
-   cd (nama folde atau repo yang di clone)
+   cd (nama folder atau repo yang di clone)
    ```
 3. Pastikan Maven telah terinstal.
 4. Jalankan perintah berikut untuk mengunduh dependensi:
